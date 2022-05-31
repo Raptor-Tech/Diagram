@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-31T06:04:32.581Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Hytw_pjb2Dbww1zuzzyr" version="17.5.0" type="github">
+<mxfile modified="2022-05-31T06:48:56.317Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="suvn_vImDNVn9kw2CiaC" version="17.5.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1139" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -66,6 +66,17 @@
         <mxCell id="SpAC55zPE9EXekvdlWWj-553" value="Debug" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="14">
           <mxGeometry x="120" y="500" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="SpAC55zPE9EXekvdlWWj-557" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="14" source="SpAC55zPE9EXekvdlWWj-519" target="SpAC55zPE9EXekvdlWWj-547">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="130" />
+              <mxPoint x="145" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpAC55zPE9EXekvdlWWj-556" value="Shutdown in the evening" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="14">
+          <mxGeometry x="160" y="60" width="150" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="2" value="Architecture: Gaming &amp;gt; Backend Database" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="40" width="831" height="40" as="geometry" />
         </mxCell>
@@ -75,6 +86,11 @@
         <mxCell id="496" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.laptop;part=1;" parent="495" vertex="1">
           <mxGeometry x="0.5" width="50" height="33" relative="1" as="geometry">
             <mxPoint x="-25" y="18.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpAC55zPE9EXekvdlWWj-558" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SpAC55zPE9EXekvdlWWj-556">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
