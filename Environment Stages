@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-31T06:48:56.317Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="suvn_vImDNVn9kw2CiaC" version="17.5.0" type="github">
+<mxfile modified="2022-05-31T07:05:31.458Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="xxK4VUc6NO7TRt6jhwRL" version="17.5.0" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1139" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -75,7 +75,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SpAC55zPE9EXekvdlWWj-556" value="Shutdown in the evening" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="14">
-          <mxGeometry x="160" y="60" width="150" height="20" as="geometry" />
+          <mxGeometry x="160" y="80" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SpAC55zPE9EXekvdlWWj-559" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-loop-128.png" vertex="1" parent="14">
+          <mxGeometry x="210" y="30" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Architecture: Gaming &amp;gt; Backend Database" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="40" width="831" height="40" as="geometry" />
