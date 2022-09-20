@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T00:56:45.118Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="AaX4u-Bcrx-AMpPs78lz" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T06:03:09.319Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="A3vSX8ESZbdoNdft51KJ" version="20.2.8" type="github">
   <diagram id="0d7cefc2-ccd6-e077-73ed-a8e48b0cddf6" name="Page-1">
-    <mxGraphModel dx="1139" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1139" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,9 +49,6 @@
         <mxCell id="TlK9t4MQgXer4ZIwuyEg-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77" source="85" target="86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="85" value="FrontEnd - Portal" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/infrastructure/infrastructure_services.svg;rounded=1;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;" parent="77" vertex="1">
-          <mxGeometry x="39" y="28" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="TlK9t4MQgXer4ZIwuyEg-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77" source="86" target="87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -75,6 +72,9 @@
         </mxCell>
         <mxCell id="87" value="Database" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/data/data_services.svg;rounded=1;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;" parent="77" vertex="1">
           <mxGeometry x="39" y="333" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="85" value="FrontEnd - Portal" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/infrastructure/infrastructure_services.svg;rounded=1;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;" parent="77" vertex="1">
+          <mxGeometry x="39" y="28" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="79" value="" style="swimlane;shadow=0;strokeColor=#4277BB;fillColor=#ffffff;fontColor=#4277BB;align=right;startSize=0;collapsible=0;strokeWidth=3;" parent="2" vertex="1">
           <mxGeometry x="642" y="67" width="137" height="483" as="geometry" />
