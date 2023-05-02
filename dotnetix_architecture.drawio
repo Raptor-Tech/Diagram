@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T02:09:15.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3YiS8tEyrCQ-mRIRRUBB" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T02:11:35.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="a8A9052WK0zLdId1ibqj" version="21.2.3" type="github">
   <diagram id="0d7cefc2-ccd6-e077-73ed-a8e48b0cddf6" name="Page-1">
     <mxGraphModel dx="1674" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="76" value="&lt;b&gt;Monitoring Machine Status&lt;/b&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/management/api_management.svg;rounded=1;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;spacingTop=3;" parent="2" vertex="1">
-          <mxGeometry x="215.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="215.5" y="16" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="28" value="" style="swimlane;shadow=0;strokeColor=#4277BB;fillColor=#ffffff;fontColor=#4277BB;align=right;startSize=0;collapsible=0;strokeWidth=3;" parent="2" vertex="1">
           <mxGeometry x="31" y="136" width="429" height="324" as="geometry" />
