@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T06:25:53.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6u1h--Bi0-qpzoLfPKlt" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T06:31:27.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5Z_DN6UQPnGouQBU1cD3" version="21.3.2" type="github">
   <diagram name="Page-1" id="EmkuD5yjH1dAO-7P8AT_">
     <mxGraphModel dx="2261" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8QahdOCugLiDFH9YeJhR-101" value="colo / dc /&#xa;on-premises" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#EFEBE9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="430" width="390" height="460" as="geometry" />
+        </mxCell>
         <mxCell id="Q5Rbbdwre-uoq36VD0P--1" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;We are using AsyncStorage&lt;br&gt;to save the data locally&lt;br&gt;when the device is offline.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#E1F5FE;" parent="1" vertex="1">
           <mxGeometry x="-270" y="60" width="600" height="350" as="geometry" />
         </mxCell>
