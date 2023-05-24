@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T08:07:26.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NsZ3dSIhiRcupLCTLhyO" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:08:28.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oXfThCWW-0ayw5vommIo" version="21.3.2" type="github">
   <diagram name="Page-1" id="EmkuD5yjH1dAO-7P8AT_">
     <mxGraphModel dx="2261" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,13 +32,13 @@
           <mxGeometry x="735.530303030303" y="132.82608695652175" width="141.06060606060606" height="30.65217391304348" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-121" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;On Premises&amp;nbsp;PostgresSQL DB&lt;/font&gt;&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#E0F2F1;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="604.5454545454545" y="449.5652173913044" width="292.1969696969697" height="152.23913043478262" as="geometry" />
+          <mxGeometry x="584.3954545454545" y="569.9952173913043" width="292.1969696969697" height="152.23913043478262" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-122" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="685.1515151515151" y="510.86956521739137" width="48" height="64" as="geometry" />
+          <mxGeometry x="610.0015151515152" y="629.9995652173914" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-123" value="PostgreSQL served by&lt;br&gt;on-premises networks&lt;br&gt;will store the data" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="765.7575757575758" y="528.2391304347826" width="60.45454545454545" height="30.65217391304348" as="geometry" />
+          <mxGeometry x="690" y="630" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-101" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;RAPTORCORE&lt;/font&gt;&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#EFEBE9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="430" width="390" height="460" as="geometry" />
