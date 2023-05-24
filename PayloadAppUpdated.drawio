@@ -1,44 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T08:04:06.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2pVEfF2_5wV0ueuxTp7Q" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:07:26.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NsZ3dSIhiRcupLCTLhyO" version="21.3.2" type="github">
   <diagram name="Page-1" id="EmkuD5yjH1dAO-7P8AT_">
     <mxGraphModel dx="2261" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8QahdOCugLiDFH9YeJhR-110" value="" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="-30" width="1320" height="920" as="geometry" />
+          <mxGeometry x="-530" y="-30" width="1330" height="940" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-115" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Cloud DB - Postgres&lt;/b&gt;&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#F1F8E9;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="1100" y="360" width="180" height="175" as="geometry" />
+          <mxGeometry x="1108.3333333333333" y="367.82608695652175" width="181.36363636363637" height="178.80434782608697" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;The app can be served from the internet or on client&lt;br&gt;premises (like a mining site or any WAN network)&lt;br&gt;Tablet and Microchip can connect to the server through&lt;br&gt;Internal &lt;b&gt;WIFI &lt;/b&gt;or &lt;b&gt;Cellular network&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="944" y="790" width="370" height="170" as="geometry" />
+          <mxGeometry x="951.1515151515151" y="807.1739130434784" width="372.8030303030303" height="173.69565217391306" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-112" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Network&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="980" y="800" width="60" height="30" as="geometry" />
+          <mxGeometry x="987.4242424242424" y="817.3913043478261" width="60.45454545454545" height="30.65217391304348" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-114" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="1105" y="428" width="48" height="64" as="geometry" />
+          <mxGeometry x="1113.371212121212" y="437.304347826087" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-116" value="PostgreSQL served by GCloud&lt;br&gt;Only for Backup (import/export)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="1160" y="428" width="110" height="66" as="geometry" />
+          <mxGeometry x="1168.7878787878788" y="437.304347826087" width="110.83333333333333" height="67.43478260869566" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-117" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="8QahdOCugLiDFH9YeJhR-110" target="8QahdOCugLiDFH9YeJhR-115">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="870" y="200.5" as="sourcePoint" />
-            <mxPoint x="974" y="100" as="targetPoint" />
+            <mxPoint x="876.5909090909091" y="204.85869565217394" as="sourcePoint" />
+            <mxPoint x="981.3787878787879" y="102.17391304347827" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-118" value="&lt;b&gt;API Scheme&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="730" y="130" width="140" height="30" as="geometry" />
+          <mxGeometry x="735.530303030303" y="132.82608695652175" width="141.06060606060606" height="30.65217391304348" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-121" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;On Premises&amp;nbsp;PostgresSQL DB&lt;/font&gt;&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#E0F2F1;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="600" y="440" width="290" height="149" as="geometry" />
+          <mxGeometry x="604.5454545454545" y="449.5652173913044" width="292.1969696969697" height="152.23913043478262" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-122" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="680" y="500" width="48" height="64" as="geometry" />
+          <mxGeometry x="685.1515151515151" y="510.86956521739137" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-123" value="PostgreSQL served by&lt;br&gt;on-premises networks&lt;br&gt;will store the data" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8QahdOCugLiDFH9YeJhR-110">
-          <mxGeometry x="760" y="517" width="60" height="30" as="geometry" />
+          <mxGeometry x="765.7575757575758" y="528.2391304347826" width="60.45454545454545" height="30.65217391304348" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-101" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;RAPTORCORE&lt;/font&gt;&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#EFEBE9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="430" width="390" height="460" as="geometry" />
