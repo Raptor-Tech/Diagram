@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T03:04:16.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VNnLOQbVtj-aYJg3s8ZE" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T03:06:07.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZittRJfV9knerISzG4Vt" version="21.3.3" type="github">
   <diagram name="Page-1" id="EmkuD5yjH1dAO-7P8AT_">
     <mxGraphModel dx="2261" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-530" y="-30" width="1330" height="940" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-115" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Cloud DB - Postgres&lt;/b&gt;&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#F1F8E9;" parent="8QahdOCugLiDFH9YeJhR-110" vertex="1">
-          <mxGeometry x="1108.3333333333333" y="367.82608695652175" width="181.36363636363637" height="178.80434782608697" as="geometry" />
+          <mxGeometry x="1070" y="367.83" width="219.7" height="178.8" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;The app can be served from the internet or on client&lt;br&gt;premises (like a mining site or any WAN network)&lt;br&gt;Tablet and Microchip can connect to the server through&lt;br&gt;Internal &lt;b&gt;WIFI &lt;/b&gt;or &lt;b&gt;Cellular network&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8QahdOCugLiDFH9YeJhR-110" vertex="1">
           <mxGeometry x="951.1515151515151" y="807.1739130434784" width="372.8030303030303" height="173.69565217391306" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="987.4242424242424" y="817.3913043478261" width="60.45454545454545" height="30.65217391304348" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-114" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" parent="8QahdOCugLiDFH9YeJhR-110" vertex="1">
-          <mxGeometry x="1113.371212121212" y="437.304347826087" width="48" height="64" as="geometry" />
+          <mxGeometry x="1090.0012121212121" y="425.234347826087" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-116" value="PostgreSQL served by GCloud&lt;br&gt;Only for Backup (import/export)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8QahdOCugLiDFH9YeJhR-110" vertex="1">
-          <mxGeometry x="1168.7878787878788" y="437.304347826087" width="110.83333333333333" height="67.43478260869566" as="geometry" />
+          <mxGeometry x="1159.9978787878788" y="425.234347826087" width="110.83333333333333" height="67.43478260869566" as="geometry" />
         </mxCell>
         <mxCell id="8QahdOCugLiDFH9YeJhR-118" value="&lt;b&gt;API Scheme&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8QahdOCugLiDFH9YeJhR-110" vertex="1">
           <mxGeometry x="735.530303030303" y="132.82608695652175" width="141.06060606060606" height="30.65217391304348" as="geometry" />
